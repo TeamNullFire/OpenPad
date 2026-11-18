@@ -9,14 +9,14 @@
 ![Status: Prototype](https://img.shields.io/badge/Status-Prototype-orange)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D81HVM56)
 
-## Important:
-Recommended to use PlatformIO if you want convenience, Arduino IDE also works.
-[Recommended part list](partlist.md)
-This project Base uses the ESP32-DEVKIT-V1. Reference here: ![ESP32-DEVKIT-V1](ESP32-DEVKIT-V1-pinout-36-GPIOs.jpg)
-
 ## What Is OpenPad?
 OpenPad is a fully open-source game controller designed around the **ESP32-S3** microcontroller. It supports multiple output platforms over both **USB-C** and **Bluetooth**, with on-boot mode selection and a built-in motion sensor for Wii compatibility.
 The goal is a single controller you can use for everything with full open access to the firmware and PCB design so anyone can build, modify, and improve it.
+
+## Important for contributing and building:
+Recommended to use PlatformIO if you want convenience, Arduino IDE also works.
+[Recommended part list](partlist.md)
+This project Base uses the ESP32-DEVKIT-V1. Reference here: ![ESP32-DEVKIT-V1](ESP32-DEVKIT-V1-pinout-36-GPIOs.jpg)
 
 ## License
 
